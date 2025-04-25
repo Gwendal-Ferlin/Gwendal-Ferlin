@@ -1,79 +1,51 @@
-# 👋 Bonjour, je suis Gwendal Ferlin
+# 👋 Bienvenue sur mon profil GitHub !
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <h1>Gwendal Ferlin</h1>
+  <h3>Étudiant en BTS SIO SLAM | Développeur Web en devenir</h3>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://votre-site-web.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
 </div>
 
 ## 🎓 À propos de moi
 
-Je suis actuellement en deuxième année de **BTS SIO SLAM** (Services Informatiques aux Organisations - Solutions Logicielles et Applications Métiers) à l'**EPSI d'Arras**.
+Je suis actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers). Passionné par le développement web et les nouvelles technologies, je cherche constamment à approfondir mes connaissances et à relever de nouveaux défis.
 
-<div align="center">
-  <img src="https://www.epsi.fr/wp-content/uploads/2021/03/logo-epsi.png" width="200"/>
-</div>
+## 💻 Compétences Techniques
 
-## 💻 Compétences
-
-### Langages de programmation
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Outils
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📚 Formation
-
-### BTS SIO SLAM - EPSI Arras (2022-2024)
-- **Spécialité SLAM** : Solutions Logicielles et Applications Métiers
-- Développement d'applications web et mobiles
-- Gestion de bases de données
-- Administration systèmes et réseaux
-- Projets pratiques et stages en entreprise
+- **Langages de programmation :** HTML, CSS, JavaScript, PHP
+- **Frameworks & Bibliothèques :** [À compléter]
+- **Outils & Environnements :** Git, VS Code
+- **Base de données :** MySQL
+- **Autres :** Gestion de projet, Méthodes Agiles
 
 ## 🚀 Projets
 
-### Projet Forum API
-- Développement d'une API RESTful avec Symfony et API Platform
-- Authentification JWT
-- Gestion des utilisateurs, forums et messages
-- Documentation Swagger
+Je travaille sur divers projets personnels et académiques. N'hésitez pas à explorer mes repositories pour découvrir mes réalisations !
 
-### [Autres projets à venir...]
+### 🌐 Infrastructure Personnelle
 
-## 🌟 Objectifs
-
-- Approfondir mes connaissances en développement web
-- Maîtriser les frameworks modernes (Symfony, React)
-- Développer des compétences en DevOps
-- Préparer mon insertion professionnelle
+- Gestion d'un serveur web personnel
+- Hébergement de projets et applications
+- Administration système
 
 ## 📫 Contact
 
+- 📧 Email : [Votre email]
+- 💼 LinkedIn : [Votre profil LinkedIn]
+- 🌐 Portfolio : [Votre site web]
+
+## 📈 Statistiques GitHub
+
 <div align="center">
-  <a href="mailto:votre.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/votre-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/votre-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE-USERNAME&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=votre-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <i>N'hésitez pas à me contacter pour toute opportunité de collaboration ou question !</i>
 </div>
-
-<div align="center">
-  <sub>Développé avec ❤️ par Gwendal Ferlin</sub>
-</div> 
