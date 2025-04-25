@@ -1,140 +1,79 @@
-# Forum API - Symfony 6.4 & API Platform
+# 👋 Bonjour, je suis Gwendal Ferlin
 
-![Symfony](https://img.shields.io/badge/Symfony-6.4-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![API Platform](https://img.shields.io/badge/API_Platform-4.1-2A9FD8?style=for-the-badge&logo=api-platform&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</div>
 
-## 📋 Description
+## 🎓 À propos de moi
 
-Ce projet est une API RESTful pour un système de forum développée avec Symfony 6.4 et API Platform. Elle permet la gestion des utilisateurs, des forums, et des messages avec authentification JWT.
+Je suis actuellement en deuxième année de **BTS SIO SLAM** (Services Informatiques aux Organisations - Solutions Logicielles et Applications Métiers) à l'**EPSI d'Arras**.
 
-## ✨ Fonctionnalités
+<div align="center">
+  <img src="https://www.epsi.fr/wp-content/uploads/2021/03/logo-epsi.png" width="200"/>
+</div>
 
-- 🔐 **Authentification JWT** pour sécuriser l'accès à l'API
-- 👥 **Gestion des utilisateurs** (inscription, connexion, profil)
-- 📚 **Gestion des forums** (création, consultation, modification)
-- 💬 **Gestion des messages** (publication, réponses, consultation)
-- 🔍 **Filtrage et recherche** des messages et utilisateurs
-- 📱 **API RESTful** complète avec documentation Swagger
+## 💻 Compétences
 
-## 🚀 Installation
+### Langages de programmation
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Prérequis
+### Frameworks & Outils
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- PHP 8.1 ou supérieur
-- Composer
-- MySQL ou PostgreSQL
-- Symfony CLI (optionnel)
+## 📚 Formation
 
-### Étapes d'installation
+### BTS SIO SLAM - EPSI Arras (2022-2024)
+- **Spécialité SLAM** : Solutions Logicielles et Applications Métiers
+- Développement d'applications web et mobiles
+- Gestion de bases de données
+- Administration systèmes et réseaux
+- Projets pratiques et stages en entreprise
 
-1. **Cloner le repository**
-   ```bash
-   git clone https://github.com/votre-username/forum-api.git
-   cd forum-api
-   ```
+## 🚀 Projets
 
-2. **Installer les dépendances**
-   ```bash
-   composer install
-   ```
+### Projet Forum API
+- Développement d'une API RESTful avec Symfony et API Platform
+- Authentification JWT
+- Gestion des utilisateurs, forums et messages
+- Documentation Swagger
 
-3. **Configurer la base de données**
-   - Copier le fichier `.env` en `.env.local`
-   - Modifier les paramètres de connexion à la base de données
+### [Autres projets à venir...]
 
-4. **Créer la base de données et exécuter les migrations**
-   ```bash
-   php bin/console doctrine:database:create
-   php bin/console doctrine:migrations:migrate
-   ```
+## 🌟 Objectifs
 
-5. **Charger les fixtures (optionnel)**
-   ```bash
-   php bin/console doctrine:fixtures:load
-   ```
+- Approfondir mes connaissances en développement web
+- Maîtriser les frameworks modernes (Symfony, React)
+- Développer des compétences en DevOps
+- Préparer mon insertion professionnelle
 
-6. **Générer les clés JWT**
-   ```bash
-   php bin/console lexik:jwt:generate-keypair
-   ```
+## 📫 Contact
 
-7. **Lancer le serveur de développement**
-   ```bash
-   symfony server:start
-   ```
-
-## 📚 Documentation API
-
-La documentation complète de l'API est disponible à l'adresse `/api/doc` une fois le serveur lancé.
-
-### Points d'entrée principaux
-
-- `POST /api/authentication_token` - Authentification JWT
-- `GET /api/forums` - Liste des forums
-- `GET /api/forums/{id}` - Détails d'un forum
-- `GET /api/messages` - Liste des messages
-- `GET /api/messages/{id}` - Détails d'un message
-- `GET /api/users` - Liste des utilisateurs
-- `GET /api/users/{id}` - Détails d'un utilisateur
-
-## 🔒 Sécurité
-
-- Authentification JWT pour toutes les routes protégées
-- Validation des données avec Symfony Validator
-- Protection CSRF
-- Gestion des rôles utilisateurs
-
-## 🛠️ Technologies utilisées
-
-- **Symfony 6.4** - Framework PHP
-- **API Platform** - Framework pour API RESTful
-- **Doctrine ORM** - ORM pour la gestion de la base de données
-- **LexikJWTAuthenticationBundle** - Authentification JWT
-- **NelmioCorsBundle** - Gestion des CORS
-- **Faker** - Génération de données de test
-
-## 📝 Structure du projet
-
-```
-forum-api/
-├── config/                 # Configuration Symfony
-├── migrations/             # Migrations Doctrine
-├── public/                 # Fichiers publics
-├── src/                    # Code source
-│   ├── Controller/         # Contrôleurs
-│   ├── Entity/             # Entités Doctrine
-│   ├── Repository/         # Repositories Doctrine
-│   ├── State/              # Processeurs d'état API Platform
-│   └── ...
-├── templates/              # Templates Twig
-├── tests/                  # Tests unitaires et fonctionnels
-├── .env                    # Variables d'environnement
-├── composer.json           # Dépendances PHP
-└── README.md               # Documentation
-```
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commiter vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Pusher vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 👤 Auteur
-
-Votre Nom - [@votre_twitter](https://twitter.com/votre_twitter) - email@example.com
+<div align="center">
+  <a href="mailto:votre.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/votre-profil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/votre-username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using Symfony and API Platform</sub>
+  <img src="https://komarev.com/ghpvc/?username=votre-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+
+<div align="center">
+  <sub>Développé avec ❤️ par Gwendal Ferlin</sub>
+</div> 
