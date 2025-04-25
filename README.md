@@ -16,7 +16,7 @@ Je suis actuellement en deuxième année de BTS SIO (Services Informatiques aux 
 ## 💻 Compétences Techniques
 
 - **Langages de programmation :** HTML, CSS, JavaScript, PHP
-- **Frameworks & Bibliothèques :** [À compléter]
+- **Frameworks & Bibliothèques :** Symfony, React
 - **Outils & Environnements :** Git, VS Code
 - **Base de données :** MySQL
 - **Autres :** Gestion de projet, Méthodes Agiles
