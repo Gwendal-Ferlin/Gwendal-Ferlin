@@ -40,8 +40,8 @@ Je travaille sur divers projets personnels et académiques. N'hésitez pas à ex
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE-USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gwendal-Ferlin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwendal-Ferlin&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
