@@ -33,9 +33,9 @@ Je travaille sur divers projets personnels et académiques. N'hésitez pas à ex
 
 ## 📫 Contact
 
-- 📧 Email : [Votre email]
-- 💼 LinkedIn : [Votre profil LinkedIn]
-- 🌐 Portfolio : [Votre site web]
+- 📧 Email : [[Mon mail]](gwendalferlin20@gmail.com)
+- 💼 LinkedIn : [[Mon profil LinkedIn]](https://www.linkedin.com/in/gwendal-ferlin/)
+- 🌐 Portfolio : [Mon site web](http://gwendalferlin.fr)
 
 ## 📈 Statistiques GitHub
 
