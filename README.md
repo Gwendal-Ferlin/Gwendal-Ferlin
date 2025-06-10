@@ -33,7 +33,7 @@ Je travaille sur divers projets personnels et académiques. N'hésitez pas à ex
 
 ## 📫 Contact
 
-- 📧 Email : [Mon mail](gwendalferlin20@gmail.com)
+- 📧 Email : gwendalferlin20@gmail.com
 - 💼 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/gwendal-ferlin/)
 - 🌐 Portfolio : [Mon site web](http://gwendalferlin.fr)
 
