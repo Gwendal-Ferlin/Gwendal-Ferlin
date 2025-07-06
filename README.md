@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=000000&center=true&vCenter=true&width=500&height=60&lines=👋+Salut%2C+je+suis+Gwendal+!;🚀+Développeur+Full-Stack;💻+Étudiant+en+Informatique" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gwendal%20Ferlin&reversal=true&section=header&fontAlign=50&animation=fadeIn&textBg=false&desc=Developpeur%20Fullstack&descAlign=50&descAlignY=65&fontColor=000" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -145,7 +145,6 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 ---
 
 <div align="center">
-  <h3>💫 "Code is poetry written in logic" 💫</h3>
   <p><i>Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute opportunité ou collaboration. 🚀</i></p>
 </div>
 
