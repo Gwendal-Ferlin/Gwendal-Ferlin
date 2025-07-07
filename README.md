@@ -73,8 +73,8 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 
 ### 💼 Expérience Professionnelle
 - **🏢 Stage chez Waigéo** (8 semaines)
-  - Travail sur le projet **![MyBabiz](https://www.mybabiz.fr/)**
-  - Développement et deploiement automatique pour les communes
+  - Travail sur le projet **[MyBabiz](https://www.mybabiz.fr/)**
+  - Développement et déploiement automatique pour les communes
   - Création de chatbot
 
 ---
@@ -90,7 +90,7 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
   
   **🎭 Loisirs**
   ```
-  🐾 Animaux • 🍳 Cuisine • 🎬 Films & Séries • 📺 YouTube
+  🐾 Animaux • 🍳 Cuisine • 🎬 Films & Séries 
   ```
   
 </div>
