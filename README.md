@@ -100,15 +100,7 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gwendal-Ferlin&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwendal-Ferlin&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwendal-Ferlin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Gwendal-Ferlin" alt="GitHub Stats" />
 </div>
 
 ---
@@ -131,21 +123,6 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gwendal-Ferlin)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://linktree.gwendalferlin.fr/)
   
-</div>
-
----
-
-## 🎯 Actuellement
-
-- 🔍 **En recherche d'alternance** pour continuer mes études
-- 📚 **Apprentissage continu** des nouvelles technologies
-- 🎮 **Rêve de rejoindre l'équipe Ankama** un jour
-- 💡 **Ouvert aux opportunités** de collaboration
-
----
-
-<div align="center">
-  <p><i>Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute opportunité ou collaboration. 🚀</i></p>
 </div>
 
 ---
