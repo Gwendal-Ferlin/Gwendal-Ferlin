@@ -100,7 +100,7 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Gwendal-Ferlin" alt="GitHub Stats" />
+  <img src="[https://pixel-profile.vercel.app/api/github-stats?username=Gwendal-Ferlin&theme=journey](https://pixel-profile.vercel.app/api/github-stats?username=Gwendal-Ferlin&theme=road_trip&pixelate_avatar=false)" alt="GitHub Stats" />
 </div>
 
 ---
