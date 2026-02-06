@@ -25,7 +25,7 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 ### 🌐 Langages & Technologies
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,cs,mysql&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,cs,mysql&perline=7)](https://skillicons.dev)
   
 </div>
 
