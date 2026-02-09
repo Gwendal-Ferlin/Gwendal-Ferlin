@@ -31,6 +31,8 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 
 ### 🛠️ Frameworks & Outils
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,symfony,bootstrap,vscode,phpstorm,git,github,githubactions,gitlab,docker)](https://skillicons.dev)
   
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
