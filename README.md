@@ -25,7 +25,7 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 ### 🌐 Langages & Technologies
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,cs,mysql&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,cs)](https://skillicons.dev)
   
 </div>
 
@@ -34,22 +34,14 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 
 [![My Skills](https://skillicons.dev/icons?i=react,symfony,bootstrap,vscode,phpstorm,git,github,githubactions,gitlab,docker)](https://skillicons.dev)
   
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![PhpStorm](https://img.shields.io/badge/PhpStorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
 
 ### 🗄️ Bases de Données
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
   
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   
 </div>
 
@@ -64,7 +56,7 @@ Salut ! Je suis **Gwendal FERLIN**, étudiant passionné en informatique à l'**
 ## 🎓 Formation & Expérience
 
 ### 📚 Formation
-- **🎓 EPSI Arras** - Étudiant en informatique (BAC+2 acquis)
+- **🎓 EPSI Arras** - Étudiant en Bac + 3 informatique (BAC+2 acquis)
 - **🏆 BTS SIO SLAM** - Services Informatiques aux Organisations
 
 ### 💼 Expérience Professionnelle
